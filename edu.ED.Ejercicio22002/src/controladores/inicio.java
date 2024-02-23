@@ -32,5 +32,6 @@ public class inicio {
 	 System.out.println(duracion);
 	 
 	 System.out.println("años: " + duracion.getYears() + "  meses: " + duracion.getMonths() + "  dias: " + duracion.getDays());
+	 /*ejercicio2*/
 }
 }
